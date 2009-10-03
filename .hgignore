@@ -1,0 +1,11 @@
+regexp:\.svn
+regexp:/bin/
+regexp:/obj/
+regexp:_ReSharper
+regexp:\.user
+regexp:\.suo
+regexp:IMDBDLL
+regexp:Test/
+regexp:hdb/
+regexp:WpfBrowserApplication1/
+glob:misc/HdBrowser.Index.xml
