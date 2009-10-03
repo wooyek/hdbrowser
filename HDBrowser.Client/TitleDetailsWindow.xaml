@@ -1,0 +1,7 @@
+﻿<Window x:Class="HDBrowser.Client.TitleDetailsWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Client="clr-namespace:HDBrowser.Client"
+    Title="TitleDetailsWindow" ResizeMode="NoResize" ShowInTaskbar="True" WindowStartupLocation="CenterOwner" SizeToContent="WidthAndHeight">
+        <Client:TitleDetails></Client:TitleDetails>
+</Window>
